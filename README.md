@@ -1,7 +1,5 @@
 # readme
 
-https://docs.google.com/forms/d/e/1FAIpQLSctgsH-__acrraIWMPDsV3XSFmTAujJNIxK9zKEhATsYsKHSw/viewform
-
 ## dotnet
 
 - `dotnet new`
